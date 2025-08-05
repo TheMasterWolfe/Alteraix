@@ -200,7 +200,7 @@ export default function Home() {
                       </div>
                       <div className="bg-black bg-opacity-30 p-4 rounded">
                         <p className="text-sm font-mono">$ alteraix --help</p>
-                        <p className="text-sm font-mono text-green-300 mt-2">&gt; Hello! I'm your Alteraix AI Twin.</p>
+                        <p className="text-sm font-mono text-green-300 mt-2">&gt; Hello! I&apos;m your Alteraix AI Twin.</p>
                         <p className="text-sm font-mono text-green-300">&gt; How can I assist you today?</p>
                       </div>
                     </div>
